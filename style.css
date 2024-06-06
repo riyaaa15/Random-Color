@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    text-align: center;
+    background-image: url("bg-img.jpg");
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+};
+
+span {
+    height: 800px;
+}
+
+div {
+    height: 200px;
+    width: 560px;
+    border: 1px solid black;
+    border-radius: 1rem;
+    margin: auto;
+    color: white;
+}
+h1 {
+    color: white;
+    padding: 2rem;
+}
+
+
+button {
+    height: 2.5rem;
+    width: 200px;
+    background-color: rgb(219, 212, 204);
+    border: none;
+    border-radius: 1rem;
+}
+
